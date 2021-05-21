@@ -46,3 +46,11 @@ img{
 html{
     background-color: rgb(26, 26, 26);
 }
+.Dev{
+    font-size: 52px;
+    font-weight: bold;
+    font-style: oblique;
+    text-align: center;
+    background-color: #808080;
+
+}
